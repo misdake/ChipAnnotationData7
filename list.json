@@ -44,7 +44,7 @@
     "type": "CPU",
     "family": "Atom",
     "name": "BayTrail",
-    "listname": "Silvermont(BayTrail)",
+    "listname": "Silvermont (BayTrail)",
     "url": "https://misdake.github.io/ChipAnnotationData7/BayTrail"
   },
   {
@@ -52,8 +52,8 @@
     "type": "CPU",
     "family": "CannonLake",
     "name": "CannonLake_2C_GT2",
-    "listname": "CannonLake_2C_GT2",
-    "url": "https://misdake.github.io/ChipAnnotationData7/CannonLake_2C_GT2"
+    "url": "https://misdake.github.io/ChipAnnotationData7/CannonLake_2C_GT2",
+    "listname": "CannonLake 2+2"
   },
   {
     "vendor": "Intel",
@@ -76,7 +76,7 @@
     "type": "CPU",
     "family": "RaptorLake",
     "name": "RPL-S_8+16",
-    "listname": "RPL-S 8+16",
+    "listname": "RaptorLake 8+16+1",
     "url": "https://misdake.github.io/ChipAnnotationData7/RPL-S_8+16"
   },
   {
